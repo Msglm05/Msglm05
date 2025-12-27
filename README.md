@@ -1,25 +1,28 @@
 <h1>Hi, I'm Mahmut! </h1>
+I'm Mahmut, an aspiring IT Support professional with a strong foundation backed by certifications and hands on labs. I enjoy helping users, solving technical issues, and upskilling myself whenever I can!
 
-<h2>👨‍💻 Projects:</h2>
+<h2> 💻 Projects:</h2>
 
 - [Active Directory lab](https://github.com/Msglm05/Active-Directory/blob/main/README.md)
 - [SOC Lab](https://github.com/Msglm05/SOC-Lab/tree/main)
+- [Bitlocker Key Recovery Storage in Active Directory](https://docs.google.com/document/d/1v0qoQRgoUVdp4CY837XeXi4Iv1tGKOYsJUyT0dT8VYY/edit?tab=t.0)
   
 
-<h2>📺 Certifications</h2>
+<h2>📋 Certifications</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/cad663d5-0408-4ecb-a4b1-ff0596b9c15d/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/54c2c042-b87b-452d-b1c7-6e85d4427295/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/611b8d27-e105-48a9-b7fe-b8c597c9603a/public_url)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<h2> LinkedIn :</h2>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://www.linkedin.com/in/mahmutsaglam/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
