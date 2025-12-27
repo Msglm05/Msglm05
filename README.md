@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mahmut! </h1>
+<h1> 👋 Hi, I'm Mahmut! </h1>
 I'm Mahmut, an aspiring IT Support professional with a strong foundation backed by certifications and hands on labs. I enjoy helping users, solving technical issues, and upskilling myself whenever I can!
 
 <h2> 💻 Projects:</h2>
