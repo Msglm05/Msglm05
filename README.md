@@ -10,9 +10,18 @@ I'm Mahmut, an aspiring IT Support professional with a strong foundation backed 
 
 <h2>📋 Certifications:</h2>
 
-- [CompTIA A+](https://www.credly.com/badges/cad663d5-0408-4ecb-a4b1-ff0596b9c15d/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/54c2c042-b87b-452d-b1c7-6e85d4427295/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/611b8d27-e105-48a9-b7fe-b8c597c9603a/public_url)
+- **CompTIA A+**
+
+– [Credly](https://www.credly.com/badges/cad663d5-0408-4ecb-a4b1-ff0596b9c15d/public_url)
+
+- **CompTIA Network+**
+
+– [Credly](https://www.credly.com/badges/54c2c042-b87b-452d-b1c7-6e85d4427295/public_url)
+
+
+- **CompTIA Security+**
+
+– [Credly](https://www.credly.com/badges/611b8d27-e105-48a9-b7fe-b8c597c9603a/public_url)
 
 
 
