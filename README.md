@@ -28,8 +28,8 @@ I'm Mahmut, an aspiring IT Support professional with a strong foundation backed 
 
 <h2> ✉️ Ways to contact me:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/mahmutsaglam/)
-[Email](mailto:msglm18@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutsaglam/)
+[![Email](https://img.shields.io/badge/Email-blue?logo=microsoft-outlook)](mailto:msglm18@outlook.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
