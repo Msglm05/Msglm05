@@ -8,7 +8,7 @@ I'm Mahmut, an aspiring IT Support professional with a strong foundation backed 
 - [Bitlocker Key Recovery Storage in Active Directory](https://docs.google.com/document/d/1v0qoQRgoUVdp4CY837XeXi4Iv1tGKOYsJUyT0dT8VYY/edit?tab=t.0)
   
 
-<h2>📋 Certifications</h2>
+<h2>📋 Certifications:</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/cad663d5-0408-4ecb-a4b1-ff0596b9c15d/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/54c2c042-b87b-452d-b1c7-6e85d4427295/public_url)
@@ -17,12 +17,10 @@ I'm Mahmut, an aspiring IT Support professional with a strong foundation backed 
 
 
 
-<h2> LinkedIn :</h2>
+<h2> ✉️ Ways to contact me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/mahmutsaglam/
+[LinkedIn](https://www.linkedin.com/in/mahmutsaglam/)
+[Email](mailto:msglm18@outlook.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
