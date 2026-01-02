@@ -6,8 +6,6 @@ I'm Mahmut, an aspiring IT Support professional with a strong foundation backed 
 - [Active Directory lab](https://github.com/Msglm05/Active-Directory/blob/main/README.md)
 - [SOC Lab](https://github.com/Msglm05/SOC-Lab/tree/main)
 - [Bitlocker Key Recovery Storage in Active Directory](https://docs.google.com/document/d/1v0qoQRgoUVdp4CY837XeXi4Iv1tGKOYsJUyT0dT8VYY/edit?tab=t.0)
-- [LAPS Deployment in Active Directory](https://github.com/Msglm05/LAPS-Deployment-Project)
-  
 
 <h2>📋 Certifications:</h2>
 
